@@ -1,0 +1,27 @@
+@import '../../../../../dist/scss/variables.scss';
+
+:host{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    input{
+        width: 50%;
+
+        border: none;
+        border-radius: 40px;
+        background: $danger-color;
+
+        font-size: 16px;
+        color: $secondary-text-color;
+        text-align: center;
+
+        padding: 10px;
+        box-sizing: border-box;
+        cursor: pointer;
+
+        &::placeholder{
+            color: $secondary-text-color;
+        }
+    }
+}
