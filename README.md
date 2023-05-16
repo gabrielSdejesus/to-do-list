@@ -1,27 +1,24 @@
-# ToDoList
+# To-do-list
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+Bem-vindo ao To-do-list! Este é um projeto simples para marcar tarefas, permitindo que você as marque como concluídas e as remova conforme necessário.
 
-## Development server
+## Executando a aplicação localmente
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para executar a aplicação localmente, siga as instruções abaixo:
 
-## Code scaffolding
+1. Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em https://nodejs.org/.
+2. Faça o clone deste repositório em sua máquina local.
+3. Abra o terminal e navegue até o diretório do projeto.
+4. Execute o comando `npm install` para instalar as dependências do projeto.
+5. Após a instalação das dependências, execute o comando `ng s` para iniciar o servidor de desenvolvimento.
+6. Abra o navegador e acesse http://localhost:4200 para visualizar a aplicação.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Acessando o site
 
-## Build
+Você também pode acessar o site hospedado no GitHub Pages. Basta acessar o seguinte link: [https://gabrielsdejesus.github.io/to-do-list/](https://gabrielsdejesus.github.io/to-do-list/).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Recursos adicionais
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+O projeto é construído utilizando o Angular, TS, JS, HTML5, SCSS.
+##
+Sinta-se à vontade para explorar o código-fonte do projeto e fazer qualquer modificação de acordo com suas necessidades.
