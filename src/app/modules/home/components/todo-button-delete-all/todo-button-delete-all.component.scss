@@ -5,7 +5,7 @@
     justify-content: center;
     margin-top: 20px;
 
-    input{
+    button{
         width: 50%;
 
         border: none;
@@ -19,9 +19,5 @@
         padding: 10px;
         box-sizing: border-box;
         cursor: pointer;
-
-        &::placeholder{
-            color: $secondary-text-color;
-        }
     }
 }

@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./todo-button-delete-all.component.scss']
 })
 export class TodoButtonDeleteAllComponent {
-
+  
 }
